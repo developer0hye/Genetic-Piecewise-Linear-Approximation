@@ -12,7 +12,7 @@ To understand **GPLA**, you should know **PLA**.
 <img src="./figures/figure1_example_of_pla.png" width="50%">
 </p>
 
-<p align="center"> Figure 1. **A function (blue) and a piecewise linear approximation to it (red).** </p>
+<p align="center"> Figure 1. A function (blue) and a piecewise linear approximation to it (red). </p>
 
 
 ### Limitations
