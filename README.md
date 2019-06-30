@@ -13,10 +13,7 @@ To understand **GPLA**, you should know **PLA**.
 <p align="center">Figure 1. A function (blue) and a piecewise linear approximation to it (red).</p>
 
 
-### Limitations
+### Limitations of PLA
 
-PLA creates its own optimization problem. 
-
-Obviously the best PLA would use an infinite number of linear pieces to fit the curve. 
-
+A function can be approximated perfectly using PLA, if we segment a function with an infinite number of linear pieces to fit the curve.
 
