@@ -1,6 +1,6 @@
 # Genetic Piecewise Linear Approximation
 
-**GPLA**(Genetic Piecewise Linear Approximation) is the method to search automatically optimal linear pieces using genetic algorithm, when applying **PLA**(Piecewise Linear Approximation) algorithm for our applications.
+**GPLA**(Genetic Piecewise Linear Approximation) is the method to search automatically optimal linear pieces using **GA**(genetic algorithm), when applying **PLA**(Piecewise Linear Approximation) algorithm for our applications.
 
 To understand **GPLA**, you should know **PLA**.
 
