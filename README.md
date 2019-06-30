@@ -8,9 +8,12 @@ To understand **GPLA**, you should know **PLA**.
 
 **PLA** is one method to approximate a single valued function of one variable in terms of a sequence of linear pieces.
 
-<center><img src="./figures/figure1_example_of_pla.png" width="50%"></center>
+<p align="center">
+<img src="./figures/figure1_example_of_pla.png" width="50%">
+</p>
 
-Figure 1. **A function (blue) and a piecewise linear approximation to it (red).**
+<p align="center"> Figure 1. **A function (blue) and a piecewise linear approximation to it (red).** </p>
+
 
 ### Limitations
 
