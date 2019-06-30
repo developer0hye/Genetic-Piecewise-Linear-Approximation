@@ -15,5 +15,9 @@ To understand **GPLA**, you should know **PLA**.
 
 ### Limitations of PLA
 
-Obviously, a function can be approximated perfectly using PLA, if we segment a function with an infinite number of linear pieces to fit the curve.
+Obviously, a function can be approximated perfectly using PLA, if we use an infinite number of linear pieces to fit the curve with an infinite memory.
+
+However, the memory is finite.
+
+So, it is important to decide **the number of linear pieces** and **the boundary value of each pieces**.
 
