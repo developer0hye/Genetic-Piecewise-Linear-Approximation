@@ -1,6 +1,6 @@
 # Genetic Piecewise Linear Approximation
 
-**GPLA**(Genetic Piecewise Linear Approximation) is the method to search automatically optimal linear pieces using **GA**(genetic algorithm), when applying **PLA**(Piecewise Linear Approximation) algorithm for our applications.
+**GPLA**(Genetic Piecewise Linear Approximation) is the method to search automatically optimal linear pieces using **GA**(Genetic Algorithm), when applying **PLA**(Piecewise Linear Approximation) algorithm for our applications.
 
 To understand **GPLA**, you should know **PLA**.
 
@@ -15,9 +15,8 @@ To understand **GPLA**, you should know **PLA**.
 
 ### Limitations of PLA
 
-Obviously, a function can be approximated perfectly using PLA, if we use an infinite number of linear pieces to fit the curve with an infinite memory.
+Obviously, a function can be approximated almost perfectly using PLA, if we use an infinite number of linear pieces to fit the curve with an infinite memory.
 
 However, the memory is finite.
 
-So, it is important to decide **the number of linear pieces** and **the boundary value of each pieces**.
-
+So, it is important to decide **the number of linear pieces** and **the boundary of each piece** for practical use.
