@@ -6,6 +6,9 @@ To understand **GPLA**(Genetic Piecewise Linear Approximation), you should know 
 
 **PLA**(Piecewise Linear Approximation) is one method to approximate a single valude function of one variable in terms of a sequence of linear segments.
 
+![figure1_example_of_pla](https://user-images.githubusercontent.com/35001605/60398737-c1c7b080-9b96-11e9-9f17-d90016a6ab61.png)
+
+**figure 1. A function (blue) and a piecewise linear approximation to it (red)**
 
 ### Limitations
 
