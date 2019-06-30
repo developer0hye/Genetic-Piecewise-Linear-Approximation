@@ -10,7 +10,7 @@ To understand **GPLA**, you should know **PLA**.
 
 ![figure1_example_of_pla](https://user-images.githubusercontent.com/35001605/60398737-c1c7b080-9b96-11e9-9f17-d90016a6ab61.png)
 
-<center>figure 1. A function (blue) and a piecewise linear approximation to it (red)</center>
+Figure 1. **A function (blue) and a piecewise linear approximation to it (red).**
 
 
 ### Limitations
