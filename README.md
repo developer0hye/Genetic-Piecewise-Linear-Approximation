@@ -21,6 +21,11 @@ To help you understand, Let me give you an example.
 
 Assume that we have a function f(x) like the below Figure 2.
 
+<p align="center"><img src="./figures/fig2_fx.png" width="35%"></p>
+
+<p align="center">Figure 2. A continuous function f(x).</p>
+
+If we approximate a function f(x) with PLA 
 
 
 In this project, I propose the method to search the boundary of each piece automatically using GA when the number of linear pieces is set manually.
