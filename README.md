@@ -17,7 +17,7 @@ To understand **GPLA**, you should know **PLA**.
 
 Obviously, a function can be approximated almost perfectly using PLA, if we use an infinite number of linear pieces to fit the curve with an infinite memory. However, the memory is finite. So, it is important to decide **the proper number of linear pieces** and **the boundary of each piece** to approximate accurately a function.
 
-To help you understand, Let me give you an Example.
+To help you understand, Let me give you an example.
 
 Assume that we have a function f(x) like the below figure 2.
 
