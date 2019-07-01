@@ -19,7 +19,7 @@ Obviously, a function can be approximated almost perfectly using PLA, if we use 
 
 To help you understand, Let me give you an example.
 
-Assume that we have a function f(x) like the below Figure 2 and g(x) is the approximated f(x) using PLA.
+Assume that we have the function f(x) like the below Figure 2 and the function g(x) is the approximated f(x) using PLA.
 
 <p align="center"><img src="./figures/fig2_examples_when_using_pla.png" width="100%"></p>
 
