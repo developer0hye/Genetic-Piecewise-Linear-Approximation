@@ -37,7 +37,7 @@ I encode the boundary value of each piece and define several standard genetic op
 
 ### Encoding
 
-Real-valued Encoding
+We encode the boundary value with real value data representation.
 
 ### Fitness
 
