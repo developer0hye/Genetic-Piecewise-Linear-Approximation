@@ -30,3 +30,21 @@ piece**, we will not approximate a function with high accuracy.
 
 
 In this project, I propose the method to search the boundary of each piece automatically using GA when the number of linear pieces is set manually.
+
+## Genetic Piecewise Linear Approximation
+
+I encode the boundary value of each piece and define several standard genetic operation, i.e., selection, crossvoer and mutation.
+
+### Encoding
+
+Real-valued Encoding
+
+### Fitness
+
+### Selection
+
+Roulette-Wheel Selection
+
+### Cross Over
+
+### Mutation
