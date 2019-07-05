@@ -23,9 +23,9 @@ Assume that we have the function f(x) like the below Figure 2 and the function g
 
 <p align="center"><img src="./figures/fig2_examples_when_using_pla.png" width="100%"></p>
 
-<p align="center">Figure 2. The resutls of PLA to a function g(x) (black). (b) is approximated by a one piece. (c) and (d) are approximated by three pieces. (c) is  failed to segment the boundary of each piece. (d) seems like to be approximated well. </p>
+<p align="center">Figure 2. The resutls of PLA to a function g(x) (black). (b) is approximated by a one piece. (c) and (d) are approximated by three pieces. (c) is  failed to decide the boundary of each piece. (d) seems like to be approximated well. </p>
 
-Although we decide **the proper number of linear pieces** like (c) as shown in Figure 2, if we failed to **decide the boundary of each 
+Although we decide **the proper number of linear pieces** like (c) as shown in Figure 2, if we failed to decide **the boundary of each 
 piece**, we will not approximate a function with high accuracy.
 
 
