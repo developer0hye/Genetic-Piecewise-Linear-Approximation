@@ -39,7 +39,7 @@ My work is motivated by the following one question.
 
 I encode the boundary value of each piece and define several standard genetic operation, i.e., selection, crossvoer and mutation.
 
-### Encoding
+### Initialization & Encoding
 
 We encode the boundary value with real value data representation.
 
