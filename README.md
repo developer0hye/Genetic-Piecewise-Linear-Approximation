@@ -39,6 +39,15 @@ My work is motivated by the following one question.
 
 I encode the boundary value of each piece and define several standard genetic operation, i.e., selection, crossvoer and mutation.
 
+#### Variables
+
+***p_n***: the number of pieces to divide the function
+
+***g_n***: the number of generations
+
+***i_n***: the number of individuals
+
+
 ### Initialization & Encoding
 
 First, divide the range of input value into *n* pieces equally.
