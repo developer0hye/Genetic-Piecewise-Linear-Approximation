@@ -41,7 +41,10 @@ I encode the boundary value of each piece and define several standard genetic op
 
 ### Initialization & Encoding
 
-We encode the boundary value with real value data representation.
+First, divide the range of input value into *n* pieces equally.
+
+For example, if the range of input value is [0.0, 1.0], it will be divied to *n* pieces, [0, 0.1], [0.1, 0.2], ... , [0.9, 1.0].
+
 
 ### Fitness
 
