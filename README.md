@@ -41,7 +41,7 @@ I encode the boundary value of each piece and define several standard genetic op
 
 #### Variables
 
-***p_n***: the number of pieces to divide the function
+***p_n***: the number of pieces to divide the function, it is set by user.
 
 ***g_n***: the number of generations
 
@@ -50,9 +50,9 @@ I encode the boundary value of each piece and define several standard genetic op
 
 ### Initialization & Encoding
 
-First, divide the range of input value into *n* pieces equally.
+First, divide the range of input value into ***p_n*** pieces equally.
 
-For example, if the range of input value is [0.0, 1.0], it will be divied to *n* pieces, [0, 0.1], [0.1, 0.2], ... , [0.9, 1.0].
+For example, if the range of input value is [0.0, 1.0], it will be divied to ***p_n*** pieces, [0, 0.1], [0.1, 0.2], ... , [0.9, 1.0].
 
 
 ### Fitness
